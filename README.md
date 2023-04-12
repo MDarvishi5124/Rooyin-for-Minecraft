@@ -44,9 +44,9 @@ Minecraft: Java Edition **1.6 to 1.19** are supported. Minecraft Bedrock Edition
 ‌
 ‌
 ## 🖼 Screenshots | اسکرین‌شات ها
-See screenshots of Rooyin(Font) here   See Rooyin (Bitmap) screenshots here
+See screenshots of Rooyin(Font) [here](https://github.com/modafe5124/Rooyin-in-minecraft/blob/main/Screenshot.md#rooyin-be-and-rooyin-jebitmap). See Rooyin (Bitmap) screenshots [here](https://github.com/modafe5124/Rooyin-in-minecraft/blob/main/Screenshot.md#rooyin-jefont).
 
-اسکرین شات های Rooyin(Font) را از اینجا ببینید   اسکرین شات های Rooyin(Bitmap) را از اینجا ببینید
+اسکرین شات های Rooyin(Font) را از [اینجا](https://github.com/modafe5124/Rooyin-in-minecraft/blob/main/Screenshot.md#rooyin-be-and-rooyin-jebitmap) ببینید. اسکرین شات های Rooyin(Bitmap) را از [اینجا](https://github.com/modafe5124/Rooyin-in-minecraft/blob/main/Screenshot.md#rooyin-jefont) ببینید.
 
 ‌
 ‌
