@@ -37,17 +37,15 @@ Minecraft: Java Edition **1.6 to 1.19** are supported. Minecraft Bedrock Edition
 
 | Language - زبان                                                                                                 | Persian فارسی | Arabic عربی | Malay مالایی |
 | :-------------------------------------------------------------------------------------------------------------- | :--: | :--: | :--: |
-| Rooyin Java Edition 1.13 to 1.19(Font)                                                                          |  ✅  |  ✅  |  ✅  |
 | Rooyin Java Edition 1.6 to 1.19(Bitmap)                                                                         |  ✅  |  ✅  |  ✅  |
 | Rooyin Bedrock Edition(bitmap)                                                                                  |  ✅  |  ✅  |  -  |
 
 ‌
 ‌
 ## 🖼 Screenshots | اسکرین‌شات ها
-See screenshots of Rooyin(Font) [here](https://github.com/modafe5124/Rooyin-in-minecraft/blob/main/Screenshot.md#rooyin-be-and-rooyin-jebitmap). See Rooyin (Bitmap) screenshots [here](https://github.com/modafe5124/Rooyin-in-minecraft/blob/main/Screenshot.md#rooyin-jefont).
+See screenshots [here](https://github.com/modafe5124/Rooyin-in-minecraft/blob/main/Screenshot.md#rooyin-be-and-rooyin-jebitmap).
 
-اسکرین شات های Rooyin(Font) را از [اینجا](https://github.com/modafe5124/Rooyin-in-minecraft/blob/main/Screenshot.md#rooyin-be-and-rooyin-jebitmap) ببینید. اسکرین شات های Rooyin(Bitmap) را از [اینجا](https://github.com/modafe5124/Rooyin-in-minecraft/blob/main/Screenshot.md#rooyin-jefont) ببینید.
-
+اسکرین شات ها را از [اینجا](https://github.com/modafe5124/Rooyin-in-minecraft/blob/main/Screenshot.md#rooyin-be-and-rooyin-jebitmap) ببینید.
 ‌
 ‌
 ## 📚 recommendations | توصیه ها
