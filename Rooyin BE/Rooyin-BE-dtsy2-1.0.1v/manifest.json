@@ -1,0 +1,17 @@
+{
+    "format_version": 1,
+    "header": {
+        "description": "by Modafe5124",
+        "name": "Rooyin Font DSTY2",
+        "uuid": "9d3ddd46-2376-4d0e-bdee-ae474380ee6a",
+        "version": [0, 9, 0]
+    },
+    "modules": [
+        {
+            "description": "This resource pack changes the font",
+            "type": "resources",
+            "uuid": "d521d3e3-965b-4e56-837b-774a967da104",
+            "version": [0, 9, 0]
+        }
+    ]
+}
