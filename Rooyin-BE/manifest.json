@@ -1,0 +1,30 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "Arabic font for Minecraft by Modafe5124",
+        "name": "Rooyin Font",
+        "uuid": "42055c9d-df50-46a7-9c05-33f3812614c0",
+        "version": [0,9,0],
+        "min_engine_version": [1,13,2]
+    },
+    "modules": [
+        {
+            "description": "Rooyin font - Dot1",
+            "type": "resources",
+            "uuid": "ed8af36d-2015-4d02-917c-f241a01d1c29",
+            "version": [0,9,0]
+        }
+   ],
+   "subpacks":[
+    {
+        "folder_name":"Dot1",
+        "name":"Rooyin font - Dot1",
+        "memory_tier":0
+     },
+      {
+         "folder_name":"Dot2",
+         "name":"Rooyin font - Dot2",
+         "memory_tier":0
+      }
+   ]
+}
