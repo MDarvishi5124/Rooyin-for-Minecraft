@@ -27,6 +27,7 @@ This resource pack is also available on [Mcpedl](https://mcpedl.com/rooyin-font)
 ## ✅ Compatibility | پشتیبانی
 
 Bitmap version is used for versions 1.6 to 1.19 and font version is used for versions 1.13 to 1.20.
+
 نسخۀ Bitmap برای نسخه های 1.6 تا 1.19 بکار می‌آید و نسخۀ فونت برای نسخه های 1.13 تا 1.20 بکار می‌آید.
 ‌
 ‌
