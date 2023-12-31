@@ -33,6 +33,7 @@ Bitmap version is used for versions 1.6 to 1.19 and font version is used for ver
 ‌
 ## 🈶 Language support | پشتیبانی زبان
 Rooyin supports all languages ​​of the Arabic family (only languages ​​whose letters are registered by Unicode)
+
 رویین از تمام زبان های خانواده عربی پشتیبانی می کند (فقط زبان هایی که حروف آنها توسط یونیکد ثبت شده است)
 ‌
 ‌
