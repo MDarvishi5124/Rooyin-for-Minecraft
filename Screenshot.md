@@ -1,15 +1,20 @@
-## Rooyin JE DTSY1
-![1](https://github.com/modafe5124/Rooyin-in-minecraft/assets/100155793/2d677e4b-18fd-4322-9590-db7c19da51f9)
-![2](https://github.com/modafe5124/Rooyin-in-minecraft/assets/100155793/fd693d37-16fc-484f-990a-3a4d48a9d1e5)
+## Rooyin Bitmap(Java edition)
+![5-2](https://github.com/MDarvishi5124/Rooyin-for-Minecraft/assets/100155793/3e42860d-8b78-4252-8788-0fc3b4352819)
+![4-2](https://github.com/MDarvishi5124/Rooyin-for-Minecraft/assets/100155793/682cdcc6-b044-4425-86bd-e95b56200514)
+![3-2](https://github.com/MDarvishi5124/Rooyin-for-Minecraft/assets/100155793/4f91161e-08fa-4269-9bfd-21e65ffe24ab)
+![2-2](https://github.com/MDarvishi5124/Rooyin-for-Minecraft/assets/100155793/4927ed91-ccff-4a81-893d-14d6e10491ab)
+![1-2](https://github.com/MDarvishi5124/Rooyin-for-Minecraft/assets/100155793/760f2db1-2de2-4c2d-9aee-2893e388bc1a)
 
-## Rooyin JE DTSY2
-![1](https://github.com/modafe5124/Rooyin-in-minecraft/assets/100155793/0c133650-3215-44cf-a3cc-a31ee28da7be)
-![2](https://github.com/modafe5124/Rooyin-in-minecraft/assets/100155793/bcda3b67-bc86-409c-b28d-cbcb7570629b)
+## Rooyin Font(Java edition)
+![4-1](https://github.com/MDarvishi5124/Rooyin-for-Minecraft/assets/100155793/58ce981b-dceb-42c4-8b6b-dc713de5093e)
+![3-1](https://github.com/MDarvishi5124/Rooyin-for-Minecraft/assets/100155793/437ae8ee-b9dd-4a15-815b-a2e63fe465dd)
+![2-1](https://github.com/MDarvishi5124/Rooyin-for-Minecraft/assets/100155793/e783a181-8d9e-41a9-b432-3e384c9d2c5d)
+![1-1](https://github.com/MDarvishi5124/Rooyin-for-Minecraft/assets/100155793/49fa8859-ca57-4b72-9d02-165b8b0a0262)
+![5-1](https://github.com/MDarvishi5124/Rooyin-for-Minecraft/assets/100155793/43fe7c14-9bb2-4a62-a586-3ede0e31808a)
 
-## Default vs Rooyin BE
-![picture1](https://user-images.githubusercontent.com/100155793/231365287-9d8320f7-4ca7-40ad-81ef-90e0611d89eb.png)
-![picture2](https://user-images.githubusercontent.com/100155793/231365298-a819358c-6dd3-4577-8b82-49853086abbd.png)
-![picture3](https://user-images.githubusercontent.com/100155793/231365309-c0dac614-4e7d-450b-93e8-81dfd3808829.png)
-![picture4](https://user-images.githubusercontent.com/100155793/231365316-d98f1cbd-5ee0-4423-8688-3f5810d2bd81.png)
-## Default vs Rooyin JE
-![1](https://github.com/modafe5124/Rooyin-in-minecraft/assets/100155793/d0d842a8-d82e-4f9e-a96a-8e00c1fa99d2)
+
+## Default vs Rooyin Bedrock edition
+![4](https://github.com/MDarvishi5124/Rooyin-for-Minecraft/assets/100155793/a2b52306-64b9-4edb-aaea-1c8260c2a8fd)
+![3](https://github.com/MDarvishi5124/Rooyin-for-Minecraft/assets/100155793/771d0ca0-b5d8-4c1e-b2a1-3542369d0d32)
+![2](https://github.com/MDarvishi5124/Rooyin-for-Minecraft/assets/100155793/cdcc338d-d14a-45ad-85fd-0d06638be464)
+![1](https://github.com/MDarvishi5124/Rooyin-for-Minecraft/assets/100155793/1de9c170-5c77-429b-a52f-02b272d3a20c)
