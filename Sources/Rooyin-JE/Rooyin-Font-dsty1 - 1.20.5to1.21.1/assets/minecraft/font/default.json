@@ -1,0 +1,12 @@
+{
+    "providers": [
+        {
+            "type": "ttf",
+            "file": "minecraft:font.ttf",
+			"shift": [0, 0.5625],
+			"size": 7.875,
+			"oversample": 20.0,
+			"skip": ""
+        }
+	]
+}
