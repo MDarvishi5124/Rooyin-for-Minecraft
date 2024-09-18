@@ -27,7 +27,7 @@ Rooyin supports all languages ​​of the Arabic family (only languages ​​w
 
 ‌
 ## 📚 recommendations | توصیه ها
-![Line-spacing](line-spacing.png)
+![Line-spacing](Documentation/line-spacing.png)
 For more legibility of the font in the chat area, set the line spacing to 45%. This is a standard.
 
 برای خوانایی بیشتر فونت در قسمت چت، فاصله خطوط را روی 45% تنظیم کنید. این یک استاندارد است.
